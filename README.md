@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @EbenezerRibeiro
 - 🏠 Brazilian
-- 👀 I’m interested in study.
-- 🌱 I'm currently doing software engineering college in Brazil.
-- 📫 How to reach me ...
+- 👀 Melhor programador da minha rua (talvez eu seja o único).
 
 <!---
 EbenezerRibeiro/EbenezerRibeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
