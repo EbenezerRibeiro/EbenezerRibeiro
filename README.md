@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @EbenezerRibeiro
+# 👋 Hi, I’m @EbenezerRibeiro
 - 🏠 Brazilian
 - 👀 Melhor programador da minha rua (talvez eu seja o único).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbenezerRibeiro&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerRibeiro)](https://github.com/EbenezerRibeiro/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbenezerRibeiro&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerRibeiro&layout=compact&show_icons=true&theme=dark)](https://github.com/EbenezerRibeiro/github-readme-stats)
+
 
 
 <!---
