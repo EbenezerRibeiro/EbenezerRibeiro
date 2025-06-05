@@ -14,7 +14,7 @@ I'm passionate about **books** and **games**. When I'm not studying code, you'll
 
 Here's an overview of the languages I'm currently focusing on, as displayed by my GitHub stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerRibeiro&layout=compact&show_icons=true&theme=dark)](https://github.com/EbenezerRibeiro/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbenezerRibeiro&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbenezerRibeiro&layout=donut&show_icons=true&theme=dark)](https://github.com/EbenezerRibeiro/github-readme-stats)
 
 **Tools & Platforms I use daily:**
 
